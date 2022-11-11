@@ -1,16 +1,36 @@
-### Hi there 👋
+<div id="header" align="center">
+  <h1> Hey! </h1>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.instagram.com/s.f.2.0.0.3/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
+<div id="badges 2" align="center">
+  <img src="https://komarev.com/ghpvc/?username=IMNOTXS&style=flat-square&color=blue" alt=""/>
+</div>
+<div id="badges 3" align="center">
+  <h2> These are the languages and libraries I know. </h2>
+  <div>
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+    
+    
+    
+  </div>
+  <h2> My statistics: </h2>
+  <div align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com/?user=IMNOTXS&theme=dark"/>
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMNOTXS&theme=vision-friendly-dark"/>
+  </div>  
+</div>
 
-<!--
-**IMNOTXS/IMNOTXS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

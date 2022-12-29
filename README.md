@@ -26,7 +26,7 @@
     
     
   </div>
-  <h2>  my stats </h2>
+  <h2>  my </h2>
   <div align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com/?user=IMNOTXS&theme=dark"/>
   </div>

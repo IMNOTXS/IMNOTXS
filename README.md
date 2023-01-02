@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>  welcome to my github profile 👋🏻 <br/> 
     <a href="https://salehalfadhel.com">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+      <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmyportfolio.school.nz%2F&psig=AOvVaw0k-De_eJz5Z0uquXsMqKfk&ust=1672776926443000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNic6OTZqfwCFQAAAAAdAAAAABAE)"/>
      </a>
   </h1>
 </div>

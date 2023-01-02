@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>  welcome to my github profile 👋🏻 <br/> 
     <a href="https://salehalfadhel.com">
-      <img src="https://img.shields.io/badge/-My%20Portfolio-red"/>
+      <img src="[https://img.shields.io/badge/-My%20Portfolio-red](https://img.shields.io/badge/-My%20Portfolio-blueviolet)"/>
      </a>
   </h1>
 </div>

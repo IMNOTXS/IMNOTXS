@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>  Welcome To My Github Profile 👋🏻 <br/> 
+  <h1>  Welcome to my Github profile 👋🏻 <br/> 
     <a href="https://salehalfadhel.com">
       <img src="https://img.shields.io/badge/-My%20Portfolio-blueviolet"/>
      </a>

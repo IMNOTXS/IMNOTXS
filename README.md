@@ -1,7 +1,8 @@
 <div id="header" align="center">
-  <h1>  welcome to my github profile 👋🏻 <br/> yo
-    <a href="http://salehalfadhel.com" 
-     </a> 
+  <h1>  welcome to my github profile 👋🏻 <br/> 
+    <a href="https://salehalfadhel.com">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+     </a>
   </h1>
 </div>
 <div id="badges" align="center">

@@ -11,7 +11,7 @@
   </a>
 </div>
 <div id="badges 2" align="center">
-  <img src="https://komarev.com/ghpvc/?username=IMNOTXS&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=IMNOTXS&style=flat-square&color=blue" alt="/"/>
 </div>
 <div id="badges 3" align="center">
   <h2> These are the languages/libraries I know ☟☟ </h2>

@@ -29,9 +29,6 @@
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
   </div>
   <h2>  My Stats: </h2>
-  <div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com/?user=IMNOTXS&theme=dark"/>
-  </div>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMNOTXS&theme=vision-friendly-dark"/>
   </div>  

@@ -6,7 +6,7 @@
   </h1>
 </div>
 <div id="header" align="center">
-  <h2> Status:<br/> working on netflix clone using React </h2>
+  <h2> Status:<br/> working on netflix clone using ReactJS </h2>
 </div>
 <div id="badges" align="center">
   <a href="https://www.instagram.com/s.f.2.0.0.3/">

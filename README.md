@@ -36,5 +36,5 @@
     <img src="http://github-readme-streak-stats.herokuapp.com/?user=IMNOTXS&theme=dark"/>
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotReks&theme=vision-friendly-dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMNOTXS&theme=vision-friendly-dark"/>
   </div>  

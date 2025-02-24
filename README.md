@@ -6,7 +6,7 @@
   </h1>
 </div>
 <div id="header" align="center">
-  <h2> Status:<br/> Updating the application :) </h2>
+  <h2> Status:<br/> Working On a Personal Project :) </h2>
 </div>
 <div id="badges" align="center">
   <a href="https://www.instagram.com/s.f.2.0.0.3/">
